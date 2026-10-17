@@ -18,7 +18,7 @@ Features:
 Required Libraries are: express, jimp, exifr, heic-convert
 
 You are able to pass a folder as a arg:  node dupdeleter.js "C:\Users\Mirek\Desktop\SONY A7II PHOTOS"
-
+Supported photo/file extensions: .jpg, .jpeg, .png, .heic, .heif, .raw, arw, .cr2, .nef, .orf, .sr2
 
 
 
