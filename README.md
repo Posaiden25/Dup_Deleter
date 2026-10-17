@@ -21,7 +21,7 @@ You are able to pass a folder as a arg:  node dupdeleter.js "C:\Users\Mirek\Desk
 
 
 
-/*
+
 To run this:
 1. npm install express jimp exifr heic-convert
 2. Run: node dupdeleter.js
@@ -31,4 +31,3 @@ To run this:
 - Use ← → arrow keys to move between photos (oldest to newest).
 - Press ↓ to delete instantly (no confirmation).
 - Nothing is deleted unless you click "Delete this photo".
-*/
