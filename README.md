@@ -1,5 +1,6 @@
 # Dup_Deleter
 A program that establishes a web UI to view photos on the local machine. Can view, sort and delete photos.
+(Yes, unfortunately it doesn't delete duplicates on its own, although it did at one point, just terribly)
 
 Photo Deduplicator & Management Tool (mainly a windows program)
 
