@@ -25,9 +25,9 @@ You are able to pass a folder as a arg:  node dupdeleter.js "C:\Users\Mirek\Desk
 To run this:
 1. npm install express jimp exifr heic-convert
 2. Run: node dupdeleter.js
-   - A folder picker opens automatically (Windows), OR pass the path:
-     node dupdeleter.js "C:\\Users\\Mirek\\Desktop\\SONY A7II PHOTOS"
+   - A folder picker opens automatically (Windows), OR pass the path: node dupdeleter.js "C:\\Users\\SONY A7II"
+     
 3. Browse to http://localhost:3255
-- Use ← → arrow keys to move between photos (oldest to newest).
-- Press ↓ to delete instantly (no confirmation).
-- Nothing is deleted unless you click "Delete this photo".
+   
+- Use ← → arrow keys to move between photos.
+- Press ↓ to delete instantly.
